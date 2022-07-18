@@ -3,8 +3,8 @@ package decoder
 import (
 	"unsafe"
 
-	"github.com/goccy/go-json/internal/errors"
-	"github.com/goccy/go-json/internal/runtime"
+	"github.com/KimHyeonwoo/go-json/internal/errors"
+	"github.com/KimHyeonwoo/go-json/internal/runtime"
 )
 
 type arrayDecoder struct {
